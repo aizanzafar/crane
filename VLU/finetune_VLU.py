@@ -40,37 +40,6 @@ assistant_prompt = """
 Precise Answer: {answer}
 """
 
-# # Prompt for CRANE training without rule
-# prompt = """
-# You are an AI assistant for medical image analysis. Your task is to analyze the provided medical image, interpret its content using logical reasoning, and answer the given question with precision. Support your answer by detailing the reasoning process based on the image observations and the following logical rules:
-
-# ### Rules:
-# 1. **Rule of Co-occurrence**: co_occurs_with(X, Y) ∧ affects(Y, Z) => affects(X, Z)
-# 2. **Rule of Prevention and Causation**: prevent(X, Y) ∧ causes(Y, Z) => prevent(X, Z)
-# 3. **Rule of Treatment and Classification**: treat(X, Y) ∧ is_a(Y, Z) => treat(X, Z)
-# 4. **Rule of Diagnosis and Interaction**: diagnosis(X, Y) ∧ interacts_with(X, Z) => diagnosis(Z, Y)
-# 5. **Rule of Conjunction**: co_occurs_with(X, Y) ∧ affects(X, Z) => co_occurs_with(Y, Z)
-# 6. **Rule of Disjunction**: (prevent(X, Y) ∨ causes(Y, Z)) => (prevent(X, Z) ∨ causes(X, Z))
-
-# ### Instructions:
-# 1. Observation: Carefully analyze the medical image to identify critical findings, abnormalities, and visual details.
-# 2. Localization: Highlight specific anatomical regions, directions, or structures relevant to the question.
-# 3. Logical Reasoning: Use the logical rules to refine your observations and derive a meaningful, evidence-based answer.
-# 4. Alignment: Ensure your answer aligns with the medical image's visual features and the question's context.
-
-# ### Question: {question}
-
-# ### Task:
-# 1. Provide a concise and precise answer to the question.
-# 2. Follow up with a reasoning process that clearly explains the logic and observations leading to the answer. Ensure this reasoning references specific visual features in the image and applies the logical rules appropriately.
-# """
-
-# assistant_prompt = """
-# ### Answer: {answer}
-# """
-
-
-
 # Dataset Paths
 image_dir = "../datasets/VQA-RAD/VQA_RAD Image Folder"
 json_file = "vqa_rad/sorted_vqa_with_rules_on_Question.json"  # JSON file containing rules and triples

@@ -1,0 +1,11 @@
+ROCO_81834		case	reveal	lateral	gaze	rectu	underaction
+ROCO_81840		right	mcphail	plastic	trap	sensor	optoelectronic	typical
+ROCO_81862		interventricular	diameter	wall	ef	thicknes	rate	concentric	ventricular	internal	fraction	lvpw	hr	posterior	vetricular	ivsd	lvid	f	echocardiography	ejection	lvpwd	hypertrophy	heart	systolic	septum	diastolic
+ROCO_81876		content	view	unerupted	crown	cystic
+ROCO_81888		pectopexy	mesh	placement	orientation
+ROCO_81890		dohrniphoralongirostratum	probosci	tip	female
+ROCO_81894		thalamic	hierarchy	datum	brain	mouse	alphabetical	ontology	righthand	bottom	bookmark	ventral	anteriorlateral	custom	application	window	complex	location	structural	main	explorer	view	anatomy	hierarchical	adult	interface	muted	structure	panel	colored	sphere	default	list	side	colorcoded	coronal	mode	slouse	gene	expression	display	software
+ROCO_81902		available	tail	end	color	age	online	posterior	month	absence	daisy	wwwliebertpubcomcell	view
+ROCO_81922		model	plane	occlusal	study
+ROCO_81937		anterior	permission	jamieson	bill	anatomical	preparation	human	view
+

@@ -1,0 +1,11 @@
+ROCO_00020		pelvi	scan	wall	bladder	situ	axial	arrow	infiltration	tomography	catheter	diffuse
+ROCO_00027		postoperative	pelvi	radiograph	anteroposterior
+ROCO_00059		arterial	angiography	nidu	venou	drainage	late	avm	internal	arrow	carotid	phase	artery	main	vessel
+ROCO_00062		canal	case	apical	rootcanal	foramina	pretreatment	area	radiograph	lot
+ROCO_00068		mrcp	stone	ninemillimeter	preintervention	duct	arrow	cystic
+ROCO_00073		pin	radiograph	postoperative	show	rockwood	application	reduction
+ROCO_00076		subclavian	complete	cm	occlusion	vertebral	mri	proximal	retrograde	artery	left
+ROCO_00079		compression	third	barium	xray	dilatation	second	part	meal	duodenum
+ROCO_00082		william	junction	copyrightowner	host	lippincott	jn	ubm	wilkin	synechia	gh	graft
+ROCO_00099		patient	arteriovenou	telangiectasia	hereditary	lung	catheterization	cardiac	malformation	hemorrhagic	left
+

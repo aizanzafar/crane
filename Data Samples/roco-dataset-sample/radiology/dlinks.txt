@@ -1,0 +1,11 @@
+ROCO_00020	wget -r ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/1e/ed/PMC3970251.tar.gz -P /path/to/Dir	CRIONM2014-931546.003.jpg
+ROCO_00027	wget -r ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/d9/4e/PMC2766744.tar.gz -P /path/to/Dir	cios-1-176-g005.jpg
+ROCO_00059	wget -r ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/2c/70/PMC3789931.tar.gz -P /path/to/Dir	poljradiol-78-3-35-g001.jpg
+ROCO_00062	wget -r ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/b8/1c/PMC2676075.tar.gz -P /path/to/Dir	p147_fig4a.jpg
+ROCO_00068	wget -r ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/2d/df/PMC5292123.tar.gz -P /path/to/Dir	CRIGM2017-1710501.002.jpg
+ROCO_00073	wget -r ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/0a/fb/PMC4756892.tar.gz -P /path/to/Dir	CMJ-128-2946-g004.jpg
+ROCO_00076	wget -r ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/e2/be/PMC2494540.tar.gz -P /path/to/Dir	1757-1626-1-52-1.jpg
+ROCO_00079	wget -r ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/c6/70/PMC3339065.tar.gz -P /path/to/Dir	NAJMS-2-392-g001.jpg
+ROCO_00082	wget -r ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/66/f2/PMC2636159.tar.gz -P /path/to/Dir	IndianJOphthalmol-56-269-g003.jpg
+ROCO_00099	wget -r ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/57/4f/PMC5625558.tar.gz -P /path/to/Dir	1657-9534-cm-48-02-00088-gf1.jpg
+

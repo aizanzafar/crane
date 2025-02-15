@@ -1,0 +1,11 @@
+ROCO_00020		T046	Pathologic Function	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T074	Medical Device	T121	Pharmacologic Substance	T060	Diagnostic Procedure	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_00027		T060	Diagnostic Procedure	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_00059		T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T121	Pharmacologic Substance	T031	Body Substance	T033	Finding	T023	Body Part, Organ, or Organ Component	T109	Organic Chemical
+ROCO_00062		T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T023	Body Part, Organ, or Organ Component
+ROCO_00068		T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T121	Pharmacologic Substance	T058	Health Care Activity	T033	Finding	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning	T109	Organic Chemical
+ROCO_00073		T060	Diagnostic Procedure	T061	Therapeutic or Preventive Procedure	T170	Intellectual Product	T058	Health Care Activity
+ROCO_00076		T046	Pathologic Function	T033	Finding	T023	Body Part, Organ, or Organ Component	T037	Injury or Poisoning
+ROCO_00079		T046	Pathologic Function	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component
+ROCO_00082		T039	Physiologic Function	T046	Pathologic Function	T047	Disease or Syndrome	T170	Intellectual Product
+ROCO_00099		T047	Disease or Syndrome	T074	Medical Device	T058	Health Care Activity	T033	Finding	T061	Therapeutic or Preventive Procedure	T023	Body Part, Organ, or Organ Component
+

@@ -1,0 +1,11 @@
+ROCO_81834	wget -r ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/69/93/PMC3498864.tar.gz -P /path/to/Dir	jovr-04-256f2.jpg
+ROCO_81840	wget -r ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/7d/5a/PMC4299014.tar.gz -P /path/to/Dir	sensors-14-22285f2.jpg
+ROCO_81862	wget -r ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/b1/68/PMC5489500.tar.gz -P /path/to/Dir	dmj-41-195-g001.jpg
+ROCO_81876	wget -r ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/32/1b/PMC4745245.tar.gz -P /path/to/Dir	EJD-9-599-g003.jpg
+ROCO_81888	wget -r ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/04/83/PMC3939350.tar.gz -P /path/to/Dir	jls0011432610010.jpg
+ROCO_81890	wget -r ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/ac/27/PMC4336911.tar.gz -P /path/to/Dir	biodiversity_data_journal-3-e4299-g007.jpg
+ROCO_81894	wget -r ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/29/db/PMC3531093.tar.gz -P /path/to/Dir	gks1042f2p.jpg
+ROCO_81902	wget -r ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/4c/86/PMC5725634.tar.gz -P /path/to/Dir	fig-1.jpg
+ROCO_81922	wget -r ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/60/78/PMC5210103.tar.gz -P /path/to/Dir	JFDS-8-155-g003.jpg
+ROCO_81937	wget -r ftp://ftp.ncbi.nlm.nih.gov/pub/pmc/oa_package/64/fa/PMC4042035.tar.gz -P /path/to/Dir	AMS-10-20265-g001.jpg
+

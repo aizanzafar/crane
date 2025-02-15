@@ -1,0 +1,11 @@
+ROCO_00020	 Axial computed tomography scan of the pelvis showing a diffuse infiltration of the bladder wall, catheter in situ (arrow).
+ROCO_00027	 Postoperative anteroposterior radiograph of the pelvis.
+ROCO_00059	 Angiography of the internal carotid artery, late arterial phase. (A) – venous drainage of the AVM, (B) – main arterial supplying vessel, arrow – AVM nidus.
+ROCO_00062	 Case 4: (A) pretreatment radiograph; (B) Root-canal filled showing one canal with a lot of foraminas around the apical area.
+ROCO_00068	 Preintervention MRCP revealing a nine-millimeter stone in the cystic duct (marked with arrow).
+ROCO_00073	 A postoperative radiograph shows reduction with Rockwood pin application.
+ROCO_00076	 MRI showing complete occlusion of proximal 4 cm of left subclavian artery with retrograde filling via the left vertebral.
+ROCO_00079	 Barium meal follow through X-ray showed dilatation of the second part of duodenum with compression of the third part.
+ROCO_00082	 Graft host junction (GH Jn) synechia on UBM (copyright owner Lippincott, Williams and Wilkins, 2008)
+ROCO_00099	 Cardiac catheterization showed arteriovenous malformations (arrows) on the left lung in the patient with Hereditary hemorrhagic telangiectasia.
+

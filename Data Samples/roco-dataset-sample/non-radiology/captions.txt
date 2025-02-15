@@ -1,0 +1,11 @@
+ROCO_81834	 Case #1 right gaze reveals right lateral rectus underaction.
+ROCO_81840	 A typical plastic McPhail trap (Left) with the optoelectronic sensor embedded (Right).
+ROCO_81862	 Concentric left ventricular hypertrophy by echocardiography. IVSd, inter-ventricular septum diameter; LVIDd, diastolic left ventricular internal diameter; LVPWd, left ventricular posterior wall diameter; IVSs, systolic inter-ventricular septum; LVIDs, systolic left ventricular internal diameter; LVPWs, systolic left vetricular posterior wall thickness; HR, heart rate; EF, ejection fraction; FS, fraction shortening.
+ROCO_81876	 View of the unerupted tooth crown and cystic contents
+ROCO_81888	 Orientation for placement of mesh for pectopexy.
+ROCO_81890	 Tip of female Dohrniphora longirostrata proboscis.
+ROCO_81894	 Interface of Brain Explorer software for viewing brain anatomy and gene expression data in 3D. The main window of the Brain Explorer application displays Rab37 expression in a coronal slice from the adult mouse brain, in which gene expression is indicated by colored spheres. The location of the thalamic structure ventral anterior-lateral complex is shown in muted pink. The structural ontology panel on the right-hand side shows the color-coded hierarchy, which can be switched between hierarchical and alphabetical mode. Bookmarks portray saved default and custom views. At the bottom right-hand side of the window is the list of genes shown in the 3D view.
+ROCO_81902	 Daisy at the age of 7 months. View of the posterior end showing the absence of a tail. Color images available online at www.liebertpub.com/cell
+ROCO_81922	 Occlusal plane of the study model
+ROCO_81937	 Anterior view of the human anatomical preparation (with permission from Bill Jamieson)
+

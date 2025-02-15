@@ -2,7 +2,7 @@ import os
 import json
 
 # Define dataset root directories
-root_dir = "../casual reasoning MM/roco-dataset-master/data"
+root_dir = "roco-dataset-master/data"
 splits = ["train", "validation", "test"]
 
 # Define subdirectories

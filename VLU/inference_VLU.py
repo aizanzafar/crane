@@ -57,26 +57,6 @@ You are an AI assistant for medical image analysis. Your task is to analyze the 
 2. **Reason**: Include a reasoning process that explains your observations and supports your answer.
 """
 
-# # ## Define the inference prompt with rule
-# inference_prompt ="""
-# You are an AI assistant for medical image analysis. Your task is to analyze the provided medical image and answer the given question based on visual observations and logical reasoning. Use the following logical rules to guide your analysis and reasoning process:
-
-# ### Rules:
-# 1. **Rule of Co-occurrence**: co_occurs_with(X, Y) ∧ affects(Y, Z) => affects(X, Z)
-# 2. **Rule of Prevention and Causation**: prevent(X, Y) ∧ causes(Y, Z) => prevent(X, Z)
-# 3. **Rule of Treatment and Classification**: treat(X, Y) ∧ is_a(Y, Z) => treat(X, Z)
-# 4. **Rule of Diagnosis and Interaction**: diagnosis(X, Y) ∧ interacts_with(X, Z) => diagnosis(Z, Y)
-# 5. **Rule of Conjunction**: co_occurs_with(X, Y) ∧ affects(X, Z) => co_occurs_with(Y, Z)
-# 6. **Rule of Disjunction**: (prevent(X, Y) ∨ causes(Y, Z)) => (prevent(X, Z) ∨ causes(X, Z))
-
-# ### Instructions:
-# 1. **Observation**: Carefully examine the medical image and identify key findings or abnormalities.
-# 2. **Localization**: Determine specific anatomical regions or directions relevant to the question.
-# 3. **Causal Reasoning**: Apply the logical rules to infer relationships and derive a meaningful answer.
-
-# ### Question: {question}
-# """
-
 
 # Load test samples from JSON
 def load_test_samples(json_file):
